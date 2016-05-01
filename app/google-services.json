@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "124380564658",
+    "project_id": "handinhand-33fb0"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124380564658:android:e4028ef497cc2890",
+        "android_client_info": {
+          "package_name": "com.example.souji.handinhand"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124380564658-f2d7r0f7ehgdo4hjn37r2f96eg8ol1ml.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.souji.handinhand",
+            "certificate_hash": "EAC9FE0192AFF4B571E71A7E0681090504423129"
+          }
+        },
+        {
+          "client_id": "124380564658-h6fu7mlarn49tqrv4nsvotoik0ekk1t3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpi3YY0LtuFS5eKfKTP5OLHTjcRy0TzYI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
